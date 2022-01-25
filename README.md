@@ -24,7 +24,7 @@ We produces a <i>requirement.txt</i> to use in the setting that should mantain d
 
 
 ## Modelling description
-Models are some samples about evaluation on some techniques in relation to the Yelp dataset. In other words, we can define a better model using some state-of-art architectures like BERT, XLNet or some of their variation. These models are in the version 2 which evaluates performance in relations to the old ones.
+Models are some samples about evaluation on some techniques in relation to the Yelp dataset. In other words, we can define a better model using some state-of-art architectures like Convolutional LSTM, biLSTM or some of their variation. These models are in the version 2 which evaluates performance in relations to the old ones.
 ## Author
 <ul>
   <li> Mario Sessa (@kode-git) </li>
